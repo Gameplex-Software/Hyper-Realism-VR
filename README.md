@@ -1,10 +1,10 @@
-# Hyper Realism VR
+# Dead World VR
 
-## This project is currently mac only!
+## This project is currently tested mac only, you are welcome to try it on Windows!
 
 ![steamvr-headset-support-play-area-input](https://user-images.githubusercontent.com/34868944/147981170-0cb8c5a6-b21e-4211-8ce6-460a9d20c9ab.jpg)
 
-## Hyper Realism Built for VR headsets
+## Dead World Built for VR headsets
 ### This is an UNTESTED pre-release, any bugs should be reported immediatly!
 
 
